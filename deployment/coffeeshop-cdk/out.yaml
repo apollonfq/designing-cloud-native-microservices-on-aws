@@ -345,7 +345,7 @@ Resources:
                     ]
                   }
                 }
-        Location: https://github.com/humank/EventStormingWorkShop.git
+        Location: https://github.com/apollonfq/designing-cloud-native-microservices-on-aws.git
         ReportBuildStatus: true
         Type: GITHUB
       Cache:
