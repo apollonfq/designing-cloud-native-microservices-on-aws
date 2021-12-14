@@ -27,7 +27,7 @@
         <aws-java-sdk-bom>1.11.641</aws-java-sdk-bom>
         <software.amazon.awssdk>2.9.13</software.amazon.awssdk>
         <log4j.core>2.12.1</log4j.core>
-        <log4j.api>2.12.1</log4j.api>
+        <log4j.api>2.16.0</log4j.api>
         <log4j.slf4j.impl>2.12.1</log4j.slf4j.impl>
         <jackson.version>2.9.10.20191020</jackson.version>
 
